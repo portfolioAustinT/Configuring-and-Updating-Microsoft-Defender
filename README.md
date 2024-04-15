@@ -10,7 +10,7 @@ In this project, I constructed a mini honeynet within Azure, collecting log data
 
 ![Updating Threat Definitions](https://github.com/portfolioAustinT/Configuring-and-Updating-Microsoft-Defender/assets/147944956/8efe6f17-c120-45bb-91e2-b5c0ca7caf49)
 
-## Antivirus Quick Scan
+## Running Antivirus Quick Scan
 
 ![AntiVirus Scan](https://github.com/portfolioAustinT/Configuring-and-Updating-Microsoft-Defender/assets/147944956/6085ea85-a1a0-4af0-a7a5-2bfae2d270e8)
 
