@@ -4,7 +4,7 @@
 
 ## Introduction
 
-In this project, I configured and updated Windows Security Virus & Threat Protection. Leveraging Windows Security's definitions, I ensured that the virtual machine was fortified against known threats by updating threat definitions. This proactive approach effectively thwarted potential vulnerabilities, thereby mitigating the risk of exploitation by threat actors. Furthermore, I conducted an Antivirus Quick Scan on the endpoint device, diligently monitoring for any signs of malware infiltration.
+In this project, I configured and updated Windows Security Virus & Threat Protection. Leveraging Windows Security's definitions, I ensured that the virtual machine was fortified against known threats by updating threat definitions. This proactive approach effectively thwarted potential vulnerabilities, thereby mitigating the risk of exploitation by threat actors. Furthermore, I conducted an Antivirus Quick Scan on the virtual machine, diligently monitoring for any signs of malware infiltration.
 
 ## Updating Threat Definitions
 
