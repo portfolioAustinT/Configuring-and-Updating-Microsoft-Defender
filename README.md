@@ -1,5 +1,6 @@
 # Configuring and Updating Microsoft Defender
 
+![Microsoft Defender](https://github.com/portfolioAustinT/Configuring-and-Updating-Microsoft-Defender/assets/147944956/74f33728-b83a-4231-87ae-ff06af72fa82)
 
 
 ## Introduction
