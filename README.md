@@ -10,10 +10,15 @@ In this project, I configured and updated Windows Security Virus & Threat Protec
 
 ![Updating Threat Definitions](https://github.com/portfolioAustinT/Configuring-and-Updating-Microsoft-Defender/assets/147944956/8efe6f17-c120-45bb-91e2-b5c0ca7caf49)
 
+Observations: No action needed. 
+Results: Threat Definition Updated on 4/15/24 07:33
 
 ## Running Antivirus Quick Scan
 
 ![AntiVirus Scan](https://github.com/portfolioAustinT/Configuring-and-Updating-Microsoft-Defender/assets/147944956/6085ea85-a1a0-4af0-a7a5-2bfae2d270e8)
+
+Observations: No Current Threats / Last Scan 4/13/20 04:59 / 16113 files scanned
+Results: No Current Threats / Last Scan 4/15/24 07:44 / 34025 files scanned
 
 ## Conclusion
 
